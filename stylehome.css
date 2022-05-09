@@ -133,10 +133,17 @@
         .blog-footer p:last-child {
             margin-bottom: 0;
         }
-        .otherdiv{
+         .otherdiv{
             text-align: center;
-            
+            margin-top: 0px;
+            margin-bottom: 0px;
+            margin-right: 0px;
+            margin-left: 0px;
+            height:400px;
+            width: 200000;
+            background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZyIuazQZ6JRbvsEs__pqKCMn3pNTrk9cZMA&usqp=CAU");
         }
+
         .container{
             background-color:rgb(red, green, blue);
 

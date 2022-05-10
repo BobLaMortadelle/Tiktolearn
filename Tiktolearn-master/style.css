@@ -1,0 +1,34 @@
+    body{
+       background-color:#A8A676 ;
+   }
+   .container{
+       background-color:#D58258;
+       width: 1000px;
+       height: 600px;
+       margin-left: auto;
+       margin-right:auto; 
+       text-align: center;
+       /*Im using the margin to center
+       the box1*/ 
+   }
+
+   .highlight-text{
+       color: white;
+       font-size: larger;
+       text-align: center;
+       font-weight: 700;
+       font-family: Arial, Helvetica, sans-serif;
+   }
+ h1{
+     font-size: 84px;
+     color: white;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+
+ firstparagraph{
+     color : white;
+     font-size: 10px;
+     
+
+
+ }
